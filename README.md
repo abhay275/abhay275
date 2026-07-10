@@ -4,8 +4,6 @@
 
 ### 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant | Full Stack Developer | AI Explorer
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
-
-
 </div>
 
 ---
