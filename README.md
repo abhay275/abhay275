@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-I'm **Abhay Singh**, a Computer Science Engineering student passionate about **Cybersecurity**, **Threat Detection**, and **Cloud Security**.
+I'm **Abhay Singh**, Computer Science Engineering student with a strong interest in Cybersecurity, Cloud Security, and Full Stack Development. I enjoy building real-world security-focused applications that combine modern software engineering with practical threat detection and automation. **Cybersecurity**, **Threat Detection**, and **Cloud Security**.
 
 Instead of only learning theory, I enjoy building practical applications that solve real-world problems. My current focus is on becoming a **SOC Analyst** while strengthening my skills in:
 
@@ -164,9 +164,9 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay275&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=275&layout=compact&theme=tokyonight"/>
 
 </p>
 
