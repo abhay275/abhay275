@@ -10,8 +10,7 @@
 
 # 💫 About Me
 
-I'm **Abhay Singh**, Computer Science Engineering student with a strong interest in Cybersecurity, Cloud Security, and Full Stack Development. I enjoy building real-world security-focused applications that combine modern software engineering with practical threat detection and automation. **Cybersecurity**, **Threat Detection**, and **Cloud Security**.
-
+I'm **Abhay Singh**, a Computer Science Engineering student with a strong interest in **Cybersecurity, Cloud Security, Full Stack Development and Android Development**. I enjoy building real-world security-focused applications that combine modern software engineering with practical threat detection, automation, and scalable cloud technologies.
 Instead of only learning theory, I enjoy building practical applications that solve real-world problems. My current focus is on becoming a **SOC Analyst** while strengthening my skills in:
 
 - 🛡️ Blue Team Security
@@ -77,35 +76,40 @@ Features
 
 ### One-Stop Personalized Career & Education Advisor("AVSAR")
 
-AI-powered platform providing personalized recommendations for:
+AI-powered career guidance platform that delivers personalized recommendations for students based on their interests, academic background, and career aspirations.
 
-- Careers
-- Courses
-- Scholarships
+✨ Features
+
+- AI Career Recommendations
+- Scholarship Discovery
+- Course Suggestions
 - Government Opportunities
-- Education NGOs
+- NGO Support
+- Personalized Dashboard
 
-Tech Stack
+🛠 Tech
 
-React • PostgreSQL • JWT • JSON • Machine Learning
-
+React • PostgreSQL • JWT • Machine Learning
 ---
 
 ##  Social Impact Platform
 
 ### "ShareBox"
 
-Progressive Web Application connecting donors and receivers with:
+A Progressive Web Application that connects donors, NGOs, and receivers to simplify donation management and increase social impact.
 
-- Real-Time Chat
-- NGO Integration
-- Role Based Access
-- Notifications
+✨ Features
+
+- Real-Time Messaging
+- NGO Verification
 - Donation Tracking
+- Notifications
+- Role-Based Access
+- Secure Authentication
 
-Tech Stack
+🛠 Tech
 
-TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
+TypeScript • PostgreSQL • Firebase • CSS
 
 ---
 
@@ -149,16 +153,26 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 ---
 
-# 🌱 Currently Learning
+## 📚 Currently Exploring
 
-- Cybersecurity
-- SOC Operations
-- Threat Hunting
-- Cloud Security
-- DevSecOps
+### 🛡️ Security
+- SIEM
+- Wazuh
+- Splunk
 - Detection Engineering
-- OWASP Top 10
+- Incident Response
+- Threat Hunting
 
+### ☁️ Cloud
+- AWS Security
+- DevSecOps
+- Identity & Access Management
+
+### 💻 Systems
+- Linux
+- Docker
+- Networking
+  
 ---
 # 🎯 2026 Goals
 
@@ -192,7 +206,7 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abhay275&theme=tokyonight"/>
 
 </p>
 
