@@ -42,19 +42,20 @@ I love creating products that are **modern, premium, and production-ready**.
 # 🚀 Featured Projects
 
 ## 🛡️ Threat Detector
-Premium Cybersecurity Threat Detection Platform
+A modern cybersecurity monitoring platform designed to help SOC analysts monitor threats, visualize incidents, and investigate suspicious activities through an intuitive dashboard.
 
-**Features**
+✨ Features
 
 - Threat Monitoring
-- Security Dashboard
+- Incident Dashboard
 - Alert Management
-- Premium UI
-- Modern Detection Workflows
+- Interactive Charts
+- Real-time Detection
+- Secure Authentication
 
-Tech Stack
+🛠 Tech
 
-React • Node.js • PostgreSQL • Security APIs
+React • Node.js • PostgreSQL • JWT • Chart.js
 
 ---
 
@@ -130,7 +131,7 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 🥇 1st Position — ROBORACE (Exuberance 2025)
 
-🏆 Top 10 Finalist — Hacknovate 7.0 International Hackathon
+🏆 🏆 Hacknovate 7.0 International Hackathon - Selected among the Top 10 Finalists for building an AI-powered solution addressing real-world challenges.
 
 🥈 Silver Medal — Cricket Tournament
 
@@ -157,6 +158,21 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 - DevSecOps
 - Detection Engineering
 - OWASP Top 10
+
+---
+# 🎯 2026 Goals
+
+✅ Master Wazuh
+
+✅ Learn Splunk
+
+✅ Contribute to Open Source
+
+✅ Build 5 Security Projects
+
+✅ Earn Security+ Certification
+
+✅ Land a SOC Analyst Internship
 
 ---
 
@@ -189,7 +205,6 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 </p>
 
 ---
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -208,11 +223,15 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 # 💭 Quote
 
-> "Security isn't about knowing everything. It's about continuously learning, adapting, and staying one step ahead."
+> "Cybersecurity is a continuous process of learning, adapting, and building resilient systems—not a destination."
 
 ---
 
 <div align="center">
+
+## ☕ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 ### ⭐ Thanks for visiting my profile!
 
