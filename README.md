@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abhay Singh 👋
 
-### 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant | Full Stack Developer | AI Explorer
+### 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant | Full Stack Developer | Android Developer 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
 </div>
 
@@ -41,7 +41,7 @@ I love creating products that are **modern, premium, and production-ready**.
 
 # 🚀 Featured Projects
 
-## 🛡️ Warden
+## 🛡️ Threat Detector
 Premium Cybersecurity Threat Detection Platform
 
 **Features**
@@ -72,9 +72,9 @@ Features
 
 ---
 
-## 🎓 Avsar
+## 🎓 Personalised Career Advisor
 
-### One-Stop Personalized Career & Education Advisor
+### One-Stop Personalized Career & Education Advisor("AVSAR")
 
 AI-powered platform providing personalized recommendations for:
 
@@ -82,6 +82,7 @@ AI-powered platform providing personalized recommendations for:
 - Courses
 - Scholarships
 - Government Opportunities
+- Education NGOs
 
 Tech Stack
 
@@ -89,9 +90,9 @@ React • PostgreSQL • JWT • JSON • Machine Learning
 
 ---
 
-## ❤️ ShareBox
+##  Social Impact Platform
 
-### Social Impact Platform
+### "ShareBox"
 
 Progressive Web Application connecting donors and receivers with:
 
@@ -111,36 +112,11 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 ## Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![Flutter](https://skillicons.dev/icons?i=flutter)
+# 💻 Tech Stack
 
----
-
-## Frontend
-
-![React](https://skillicons.dev/icons?i=react,html,css,js)
-
----
-
-## Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs,express)
-
----
-
-## Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
-
----
-
-## Tools
-
-![Git](https://skillicons.dev/icons?i=git,github,vscode,figma)
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,dart,java,python,c,js,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,firebase,git,github,tailwind,vscode,docker&perline=8"/>
+</p>
 
 ## Learning
 
@@ -168,7 +144,7 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 # 📜 Certifications
 
-✅ Google AI Essentials
+✅ Google AI Essentials - google
 
 ✅ Data Structures & Algorithms — GeeksforGeeks
 
