@@ -213,9 +213,7 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay275&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
