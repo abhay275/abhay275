@@ -228,20 +228,13 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
-📧 Email
-**singhabhay4194@gmail.com**
-
-💼 LinkedIn
-
-(Add your LinkedIn URL)
-
-💻 GeeksforGeeks
-
-(Add your profile)
-
----
+<p align="center">
+<a href="https://www.linkedin.com/in/abhay-singh-b38b39279/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:singhabhay4194@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/abhay275"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://abhay-singh-portfolioo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/></a>
 
 # 💭 Quote
 
