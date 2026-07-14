@@ -110,10 +110,6 @@ TypeScript • PostgreSQL • JSON • CSS • Firebase Cloud Messaging
 
 # 💻 Tech Stack
 
-## Languages
-
-# 💻 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,dart,java,python,c,js,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,firebase,git,github,tailwind,vscode,docker&perline=8"/>
 </p>
