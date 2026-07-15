@@ -90,6 +90,7 @@ AI-powered career guidance platform that delivers personalized recommendations f
 🛠 Tech
 
 React • PostgreSQL • JWT • Machine Learning
+
 ---
 
 ##  Social Impact Platform
