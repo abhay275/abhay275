@@ -3,7 +3,7 @@
 # Hi there, I'm Abhay Singh 👋
 
 ### 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant | Full Stack Developer | Android Developer 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6$&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
 </div>
 
 ---
@@ -188,18 +188,6 @@ TypeScript • PostgreSQL • Firebase • CSS
 ✅ Earn Security+ Certification
 
 ✅ Land a SOC Analyst Internship
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay275&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=275&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
