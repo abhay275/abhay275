@@ -191,11 +191,12 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 ---
 
+
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhay275&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abhay275&theme=tokyonight&hide_border=true"/>
 
 </p>
 
