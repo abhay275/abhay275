@@ -8,7 +8,7 @@
 
 ---
 
-# 💫 About Me
+# 💫About Me
 
 I'm **Abhay Singh**, a Computer Science Engineering student with a strong interest in **Cybersecurity, Cloud Security, Full Stack Development and Android Development**. I enjoy building real-world security-focused applications that combine modern software engineering with practical threat detection, automation, and scalable cloud technologies.
 Instead of only learning theory, I enjoy building practical applications that solve real-world problems. My current focus is on becoming a **SOC Analyst** while strengthening my skills in:
