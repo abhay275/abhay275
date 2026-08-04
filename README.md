@@ -150,7 +150,7 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 ✅ Data Structures & Algorithms — GeeksforGeeks
 
-✅ MongoDB — GeeksforGeeks
+✅ Cybersecurity Analysts Job Simulation - Deloitte
 
 ---
 
