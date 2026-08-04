@@ -146,11 +146,11 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 # 📜 Certifications
 
-✅ Google AI Essentials - google
+- Google AI Essentials - google
 
-✅ Data Structures & Algorithms — GeeksforGeeks
+- Data Structures & Algorithms — GeeksforGeeks
 
-✅ Cybersecurity Analysts Job Simulation - Deloitte
+- Cybersecurity Analysts Job Simulation - Deloitte
 
 ---
 
