@@ -177,11 +177,11 @@ TypeScript • PostgreSQL • Firebase • CSS
 ---
 # 🎯 2026 Goals
 
-🚀 Master Docker, Kubernetes, and Container Orchestration
-☁️ Build Expertise in AWS Cloud & Infrastructure as Code
-⚙️ Design End-to-End CI/CD Pipelines with GitHub Actions and Jenkins
-📊 Implement Monitoring & Logging using Prometheus, Grafana, and ELK Stack
-🛠️ Build 5 Real-World DevOps & Cloud Automation Projects
+- 🚀 Master Docker, Kubernetes, and Container Orchestration
+- ☁️ Build Expertise in AWS Cloud & Infrastructure as Code
+- ⚙️ Design End-to-End CI/CD Pipelines with GitHub Actions and Jenkins
+- 📊 Implement Monitoring & Logging using Prometheus, Grafana, and ELK Stack
+- 🛠️ Build 5 Real-World DevOps & Cloud Automation Projects
 
 ---
 
