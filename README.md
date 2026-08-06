@@ -40,7 +40,7 @@ I love creating products that are **modern, premium, and production-ready**.
 
 # 🚀 Featured Projects
 
-## 🛡️ Threat Detector
+## 🛡️ Threat Detector ("WARDEN")
 A modern cybersecurity monitoring platform designed to help SOC analysts monitor threats, visualize incidents, and investigate suspicious activities through an intuitive dashboard.
 
 ✨ Features
