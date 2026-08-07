@@ -148,7 +148,7 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 - Google AI Essentials - google
 
-- Data Structures & Algorithms — GeeksforGeeks
+- 
 
 - Cybersecurity Analysts Job Simulation - Deloitte
 
