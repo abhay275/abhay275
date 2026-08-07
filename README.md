@@ -148,7 +148,7 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 - Google AI Essentials - google
 
-- 
+- Agentic AI Certified Foundations Associate - Oracle
 
 - Cybersecurity Analysts Job Simulation - Deloitte
 
