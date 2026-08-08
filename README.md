@@ -134,13 +134,13 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 # 🏆 Achievements
 
-🥇 1st Position — ROBORACE (Exuberance 2025)
+🥇 1st Position — ROBORACE (Exuberance 2025) in College fest (Exuberance)
 
 🏆 🏆 Hacknovate 7.0 International Hackathon - Selected among the Top 10 Finalists for building an AI-powered solution addressing real-world challenges.
 
-🥈 Silver Medal — Cricket Tournament
+🥈 Silver Medal — Sports Cricket Tournament Organised By Allenhouse Institute of Technology
 
-💡 Participant — Smart India Hackathon 2025
+💡 Participant — Smart India Hackathon 2025 Held by the Institute
 
 ---
 
