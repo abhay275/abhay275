@@ -2,7 +2,7 @@
 
 # Hello!, I'm Abhay Singh 👋
 
-### 🚀 Cybersecurity Enthusiast | SOC Analyst Aspirant | Full Stack Developer | Android Developer 
+### 🚀 DevOps Enthusiastic | Full Stack Developer | Android Developer 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6$&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
 </div>
 
@@ -10,8 +10,7 @@
 
 # 💫 About Me
 
-I'm **Abhay Singh**, a Computer Science Engineering student with a strong interest in **Cybersecurity, Cloud Security, Full Stack Development and Android Development**. I enjoy building real-world security-focused applications that combine modern software engineering with practical threat detection, automation, and scalable cloud technologies.
-Instead of only learning theory, I enjoy building practical applications that solve real-world problems. My current focus is on becoming a **SOC Analyst** while strengthening my skills in:
+I'm **Abhay Singh**, a Computer Science Engineering student with a strong interest in **Computer Science Engineering student focused on DevOps and Cloud Engineering, with hands-on experience in CI/CD, application deployment, environment configuration, Docker, monitoring, REST APIs, and production support. Experienced in building and deploying applications using FastAPI, Node.js, React, Flutter, PostgreSQL, and Firebase. Interested in cloud infrastructure, automation, containerization, reliable software delivery, and scalable production systems.
 
 - 🛡️ Blue Team Security
 - 🔍 Threat Detection
