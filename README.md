@@ -121,6 +121,9 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 ## Learning
 
+- CI/CD
+- Git
+- GitHub
 - SIEM
 - Splunk
 - Wazuh
