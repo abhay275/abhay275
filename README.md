@@ -2,8 +2,10 @@
 
 # Hello!, I'm Abhay Singh 👋
 
-### 🚀 DevOps Enthusiastic | Cloude Infrasture 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6$&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;DevOps+Enthusiastic+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
+### ☁️ Aspiring Cloud & DevOps Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineering;AWS+%7C+Linux+%7C+Docker;CI%2FCD+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Terraform;Containers+%7C+Kubernetes;Automation+%7C+Monitoring+%7C+DevSecOps" />
+
 </div>
 
 ---
