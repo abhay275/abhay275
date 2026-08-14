@@ -2,7 +2,7 @@
 
 # Hello!, I'm Abhay Singh 👋
 
-### 🚀 DevOps Enthusiastic | Full Stack Developer | Android Developer 
+### 🚀 DevOps Enthusiastic | Cloude Infrasture 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6$&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;DevOps+Enthusiastic+in+the+Making;Building+Security+Focused+Projects;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
 </div>
 
@@ -10,14 +10,19 @@
 
 # 💫 About Me
 
-I'm **Abhay Singh**, a Computer Science Engineering student with a strong interest in **Computer Science Engineering student focused on DevOps and Cloud Engineering, with hands-on experience in CI/CD, application deployment, environment configuration, Docker, monitoring, REST APIs, and production support. Experienced in building and deploying applications using FastAPI, Node.js, React, Flutter, PostgreSQL, and Firebase. Interested in cloud infrastructure, automation, containerization, reliable software delivery, and scalable production systems.
+I'm **Abhay Singh**, a Computer Science Engineering student focused on Cloud Engineering, DevOps, infrastructure automation, containerization, and reliable software delivery.
 
-- 🛡️ Blue Team Security
-- 🔍 Threat Detection
-- 📊 Log Analysis
-- ☁️ Cloud Security
-- 🌐 Full Stack Development
-- 🤖 AI-powered Applications
+I enjoy taking applications from development to deployment and working with cloud infrastructure, CI/CD pipelines, containers, monitoring, and automation.
+
+- Currently Learning
+- 🐧 Linux & System Administration
+- ☁️ AWS & Cloud Infrastructure
+- 🐳 Docker & Docker Compose
+- 🔄 CI/CD with GitHub Actions
+- 🏗️ Terraform & Infrastructure as Code
+- ☸️ Kubernetes
+- 📊 Prometheus & Grafana
+- 🔐 DevSecOps & Cloud Security
 
 I love creating products that are **modern, premium, and production-ready**.
 
@@ -113,25 +118,24 @@ TypeScript • PostgreSQL • Firebase • CSS
 
 ---
 
-# 💻 Tech Stack
+# ☁️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,dart,java,python,c,js,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,firebase,git,github,tailwind,vscode,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,aws,postgres,redis,nginx&perline=8"/>
 </p>
 
-## Learning
+## 🚀 Currently Learning
 
-- CI/CD
-- Git
-- GitHub
-- SIEM
-- Splunk
-- Wazuh
-- Linux
-- Cloud Security
-- Detection Engineering
-- Incident Response
-
+- AWS & Cloud Infrastructure
+- Linux & System Administration
+- Docker & Containerization
+- CI/CD & GitHub Actions
+- Infrastructure as Code with Terraform
+- Kubernetes
+- Monitoring & Observability
+- Prometheus & Grafana
+- DevSecOps & Cloud Security
+  
 ---
 
 # 🏆 Achievements
