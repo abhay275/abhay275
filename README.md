@@ -32,15 +32,16 @@ I love creating products that are **modern, premium, and production-ready**.
 
 # 🎯 Current Focus
 
+🔹 Exploring Cloud Security & DevSecOps
+
+🔹 Contributing to Open Source
+
 🔹 Building **Warden** — A Cybersecurity Threat Detection Platform
 
 🔹 Developing a **Log Analyzer Dashboard** for SOC Analysts
 
 🔹 Learning SIEM, Detection Engineering & Incident Response
 
-🔹 Exploring Cloud Security & DevSecOps
-
-🔹 Contributing to Open Source
 
 ---
 
@@ -125,8 +126,6 @@ TypeScript • PostgreSQL • Firebase • CSS
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,aws,postgres,redis,nginx&perline=8"/>
 </p>
-
-## 🚀 Currently Learning
 
 - AWS & Cloud Infrastructure
 - Linux & System Administration
