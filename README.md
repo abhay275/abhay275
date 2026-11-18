@@ -2,9 +2,9 @@
 
 # Hello!, I'm Abhay Singh 👋
 
-### ☁️ Aspiring Cloud & DevOps Engineer
+### ☁️ Aspiring Cloud Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineering;AWS+%7C+Linux+%7C+Docker;CI%2FCD+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Terraform;Containers+%7C+Kubernetes;Automation+%7C+Monitoring+%7C+DevSecOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Cloud+%26+Cloud+Engineering;AWS+%7C+Linux+%7C+Docker;CI%2FCD+%7C+GitHub+Actions;Infrastructure+as+Code+%7C+Terraform;Containers+%7C+Kubernetes;Automation+%7C+Monitoring+%7C+DevSecOps" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-I'm **Abhay Singh**, a Computer Science Engineering student focused on Cloud Engineering, DevOps, infrastructure automation, containerization, and reliable software delivery.
+I'm **Abhay Singh**, a Computer Science Engineering student focused on Cloud Engineering, infrastructure automation, containerization, and reliable software delivery.
 
 I enjoy taking applications from development to deployment and working with cloud infrastructure, CI/CD pipelines, containers, monitoring, and automation.
 
@@ -166,11 +166,9 @@ TypeScript • PostgreSQL • Firebase • CSS
 ### 🛡️ Security
 - SIEM
 - Wazuh
-- Splunk
 - Detection Engineering
 - Incident Response
-- Threat Hunting
-
+  
 ### ☁️ Cloud
 - AWS Security
 - DevSecOps
@@ -182,7 +180,7 @@ TypeScript • PostgreSQL • Firebase • CSS
 - Networking
   
 ---
-# 🎯 2026 Goals
+# 🎯 Goals
 
 - 🚀 Master Docker, Kubernetes, and Container Orchestration
 - ☁️ Build Expertise in AWS Cloud & Infrastructure as Code
